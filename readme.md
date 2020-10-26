@@ -1,7 +1,7 @@
 # 周一组会文档仓库
 
 Reference documents for the BC&Cryto group.
-区块链与密码学研究小组的组hi的文档仓库
+区块链与密码学研究小组的组组会的文档仓库
 
 
 ## Available Documnets
