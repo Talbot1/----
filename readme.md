@@ -6,7 +6,7 @@ Reference documents for the BC&Cryto group.<br>
 
 ## Available Documnets
 Documents will show in two difffernet directories; `source_book` directory consists of citation referred by PPT in `PPT` directory;
-<br> `PPT` directory is for PPT.<br>
+`PPT` directory is for PPT.<br>
 PPT放`PPT`文件夹, PPT中涉及的文档放`source_book`文件夹
 
 
